@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pertemuan6_tugas</string>
+    <string-array name="city_list">
+        <item>Malang</item>
+        <item>Deo</item>
+        <item>Kediri</item>
+        <item>Jember</item>
+        <item>Probolinggo</item>
+    </string-array>
+</resources>
